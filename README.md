@@ -1,3 +1,3 @@
 # ML-projects
 
-This is a repo with ml projects.
+This is a repo with **ml** projects.
